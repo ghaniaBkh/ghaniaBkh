@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghaniaBkh
-- 👀 I’m interested in Computer vision, Data mining, Python programming, Mobile deelopment
+- 👀 I’m interested in Computer vision, Data mining, Python programming, Mobile development
 - 🌱 I’m currently learning Web scrabing
 - 💞️ I’m looking to collaborate in high level projects
 
